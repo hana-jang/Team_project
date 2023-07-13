@@ -2,5 +2,5 @@
 
 ★ HTML, CSS, Javascript, jQuery, Media Query
 
-- main : https://hana-jang.github.io/Team_project/
+- site : https://hana-jang.github.io/Team_project/
 - 문서화 pdf : https://hana-jang.github.io/Team_project/monami.pdf
